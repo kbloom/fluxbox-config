@@ -16,3 +16,6 @@
   [Dimensions]	{78% 154%}
   [Position]	(UPPERLEFT)	{11% 18%}
 [end]
+[app] (@_NET_WM_WINDOW_TYPE=_NET_WM_WINDOW_TYPE_DESKTOP)
+   [Layer] {11}
+[end]
