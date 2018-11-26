@@ -1,0 +1,24 @@
+[begin]
+  [shade]
+  [stick]
+  [maximize]
+  [iconify]
+  [raise]
+  [lower]
+  [submenu] (Arrange)
+    [ArrangeWindows (Class!=plasmashell)] (Basic)
+    [ArrangeWindowsVertical (Class!=plasmashell)] (Vertical)
+    [ArrangeWindowsHorizontal (Class!=plasmashell)] (Horizontal)
+  [end]
+  [settitledialog]
+  [sendto]
+  [layer]
+  [alpha]
+  [extramenus]
+  [separator]
+  [close]
+  [separator]
+  [submenu] (Fluxbox)
+    [include] (~/.fluxbox/menu)
+  [end]
+[end]
