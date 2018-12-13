@@ -7,6 +7,7 @@
 [end]
 [group]
  [app] (name=crx_nckgahadagoaajjgafhacjanaoiihapd)
+ [app] (name=telegram-desktop) (class=TelegramDesktop)
 [end]
 [app] (name=tkdiff.tcl) (class=Tkdiff.tcl)
   [Dimensions]	{70% 120%}
